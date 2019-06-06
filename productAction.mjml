@@ -1,0 +1,155 @@
+<mjml>
+  <mj-head>
+  
+  <mj-style inline="inline">
+      .link{
+        color: #ffffff !important;
+        text-decoration: none !important;
+      }
+      a{
+        color: #ffffff !important;
+        text-decoration: none !important;
+      }
+      a:hover{
+        color: #ffffff !important;
+      }
+      h2{
+        font-size: 18px !important;
+      }
+      .cta{
+        border: 1px solid #000000 !important;
+        color: #000000 !important;
+        padding: 10px 20px;
+        text-transform: uppercase !important;
+        letter-spacing: 1px !important;
+        font-weight: 600 !important;
+      }
+      .cta:hover{
+        color: #ffffff !important;
+        text-decoration: none !important;
+      }
+      .cta:visited{
+        color: #ffffff !important;
+        text-decoration: none !important;
+      }
+      
+      
+  </mj-style>
+    <!--preview-->
+    <mj-preview>OBL Financial Working Capital Service</mj-preview>
+    <!--subject line?-->
+    <mj-title>
+      OBL Financial
+    </mj-title>
+  </mj-head>
+
+  <mj-body background-color="lightgrey">
+  <!--logo section-->
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column padding="0px">
+        <mj-image width="600px" alt="OBL Financial" fluid-on-mobile="true" src="http://www.nmikyska.com/emails/obl1/logo-lg.jpg" />
+      </mj-column>
+    </mj-section>
+    <!--end logo section-->
+  
+  <!--start of month/yr-->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding-top="0px" padding-bottom="0px" padding-left="0px"
+        padding-right="0px" 
+        font-family="Helvetica, Arial, 'sans-serif'" font-size="26px" font-weight="600" align="center">
+          
+           Working Capital Service
+          
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  <!--end of month/yr--><!--image section-->
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column padding="0px">
+        <mj-image width="600px" height="200px" fluid-on-mobile="true" src="http://www.nmikyska.com/emails/obl1/OBL_Banner_Page_001.jpg" alt="truck going through a mountain range, financing help through OBL Financial"/>
+      </mj-column>
+    </mj-section>
+  <!--end image section-->
+  <!--start of product/service info-->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding-top="0px" padding-bottom="0px" padding-left="50px" padding-right="50px" line-height="20px" font-size="15px" font-family="Helvetica, Arial, 'sans-serif'">
+          
+            <p>Instead of having to wait 45-60 days to receive payment a Merchant Cash Advance involves using your past credit card sales to predict your future credit card sales and borrowing those future sales dollars for cash today.</p>
+            <p>While a Working Capital Loan is pledging owned assets as collateral and that collateral for cash today.</p>
+            <p>If you have at least 12 months in business, OBL can provide these services to assist with unexpected cash outlays or assisting with temporary financial problems.
+            </p>
+            </mj-text>
+      </mj-column>
+    </mj-section>
+  <!--end of product/service info-->
+  <!--start of product columns-->
+  <!--start of divider-->
+  <mj-section background-color="#ffffff">
+    <mj-column>
+        <mj-divider border-width="2px" border-style="solid" border-color="lightgrey" />
+      </mj-column>
+  </mj-section>
+  <!--end of divider-->
+  <!--start of actions-->
+  <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+    <mj-column>
+      <mj-text align="center" font-family="Helvetica, Arial, 'sans-serif'">
+      <h1 >Ready?</h1>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <mj-section background-color="#ffffff">
+    
+        <mj-column>
+          <mj-image width="75px" height="75px" padding="0"    src="http://www.nmikyska.com/emails/obl1/callCtrIcon.png" alt="call-icon" />
+          <mj-text align="center" padding-left="10px" padding-right="10px" font-family="Helvetica, Arial, 'sans-serif'">
+            <h2>Call</h2>
+            <p>We're here to listen and help you and your business.</p>
+            <br />
+            <p><a href="tel:630-850-7180" class="cta">630-850-7180</a></p>
+             
+          </mj-text>
+          <mj-spacer height="30px" />
+        </mj-column>
+        <mj-column background-color="#ffffff">
+          <mj-image width="75px" height="75px" padding="0" src="http://www.nmikyska.com/emails/obl1/emailIcon.png" alt="email-icon" />
+          <mj-text align="center" padding-left="10px" padding-right="10px" font-family="Helvetica, Arial, 'sans-serif'">
+            <h2>Email</h2>
+            <p>Email us and we will respond back quickly.</p> <br />
+            <p><a href="mailto://info.oblfinancial.com" class="cta">Email</a></p>
+          </mj-text>
+          <mj-spacer height="30px" />
+        </mj-column>
+        <mj-column>
+          <mj-image width="75px" height="75px" padding="0"    src="http://www.nmikyska.com/emails/obl1/pdfIcon.png" alt="pdf-icon" />
+          <mj-text align="center" padding-left="10px" padding-right="10px" font-family="Helvetica, Arial, 'sans-serif'">
+            <h2>Application</h2>
+            <p>Visit our site to download the application.</p><br />
+            <p><a href="https://www.oblfinancial.com/aplly" class="cta">Download</a></p>  
+          </mj-text>
+          <mj-spacer height="30px" />
+        </mj-column>
+  </mj-section>  
+  
+  <!--end of actions--> 
+<!--start of footer-->
+    <mj-section background-color="#013475" padding-bottom="5px">
+      <mj-column>
+        <mj-text color="#ffffff" align="center" font-family="Helvetica, Arial, 'sans-serif'">
+          <h3>
+            OBL Financial
+          </h3>
+          <p>799 Roosevelt Road, #6-215, Glen Ellyn, IL 60137</p>
+          <p><a href="tel:630-850-7180" class="link">630-850-7180</a></p>
+          <p><a href="https://www.oblfinancial.com"  class="link">www.oblfinancial.com</a></p>
+          <br />
+          <p><a href="https://www.#.com"  class="link">Privacy Policy</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="https://www.#.com"  class="link">Unsubscribe</a></p>
+          <p>Copyright &copy; 2019 OBL Financial Services | All Rights Reserved</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  <!--end of footer-->
+  </mj-body>
+</mjml>
